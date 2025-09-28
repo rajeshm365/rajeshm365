@@ -17,7 +17,7 @@
 
 | Project | Description |
 |--------|-------------|
-| [Teams Governance Automation](https://github.com/yourhandle/m365-teams-governance-automation) | Tracks admin config drift and automates approvals |
+| [M365-Governance-Automation-Framework](https://github.com/rajeshm365/M365-Governance-Automation-Framework) | Modular PowerShell + Azure Logic App framework to monitor Teams admin settings and Purview retention policies. |
 | [License Threshold Monitoring](https://github.com/yourhandle/m365-license-threshold-monitoring) | Monitors E3/E5 group limits with real-time alerts |
 | [Retention Compliance Tracker](https://github.com/yourhandle/m365-retention-monitoring-framework) | Alerts for disabled or failing retention policies |
 | [IB Segment Remediation](https://github.com/yourhandle/onedrive-ib-remediation) | Fixes Microsoft-side stamping bugs automatically |
