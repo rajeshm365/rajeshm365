@@ -20,7 +20,9 @@
 | [M365-Governance-Automation-Framework](https://github.com/rajeshm365/M365-Governance-Automation-Framework) | Modular PowerShell + Azure Logic App framework to monitor Teams admin settings and Purview retention policies. |
 | [OneDrive-IB-Segment-AutoRemediation](https://github.com/rajeshm365/OneDrive-IB-Segment-AutoRemediation/tree/main) | Weekly PowerShell automation that scans all OneDrives for Information Barrier (IB) segment stamping issues and auto-fixes them. |
 | [PublicGroup-Visibility-AutoRemediation](https://github.com/rajeshm365/PublicGroup-Visibility-AutoRemediation/tree/main) | Daily PowerShell automation that finds Microsoft 365 Groups with visibility set to Public and remediates them to Private by applying a sensitivity label to the associated site or group. |
-| [IB Segment Remediation](https://github.com/yourhandle/onedrive-ib-remediation) | Fixes Microsoft-side stamping bugs automatically |
+| [License-and-Group-Monitoring-LogicApps](https://github.com/rajeshm365/License-and-Group-Monitoring-LogicApps) | Two Azure Logic Apps using Managed Identity + Microsoft Graph to keep an eye on:
+License usage (e.g., E3/E5): alerts when % remaining < threshold
+Monitored group membership capacity: alerts when % capacity left < threshold |
 
 ---
 
