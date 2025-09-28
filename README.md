@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Rajesh S Chaubey
+# 👋 Hello there! I'm Rajesh S Chaubey
 
 🔧 **Senior M365 Consultant Specialist** • Automation-first • PowerShell + Graph • Governance & Compliance 
 🔒 I build enterprise-scale automations for Microsoft 365 tenants (200k+ users) to reduce manual drift, enforce compliance, and harden governance.
@@ -26,7 +26,7 @@
 
 ### 🧠 Tools & Tech
 
-`PowerShell` • `Azure Runbooks` • `Graph API` • `Logic Apps` • `Microsoft Purview` • `Microsoft Teams` `ServiceNow API` • `Governance Risk Analysis` • `Copilot for M365` • `GitHub Copilot`
+• `PowerShell` • `Microsoft Purview` • `Microsoft Teams` • `Governance Risk Analysis` • `Azure Runbooks` • `Graph API` • `Logic Apps` • `ServiceNow API` • `Copilot for M365` • `GitHub Copilot`
 
 ---
 
