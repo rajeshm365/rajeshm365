@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Rajesh S Chaubey
+# 👋 Hello! I'm Rajesh S Chaubey
 
-🔧 **Microsoft 365 Automation-First & Governance Architect**  
-🔒 Specialized in proactive observability, compliance, and risk reduction via PowerShell, Logic Apps, Graph API, and Azure Runbooks.
+🔧 **Senior M365 Consultant Specialist** • Automation-first • PowerShell + Graph • Governance & Compliance 
+🔒 I build enterprise-scale automations for Microsoft 365 tenants (200k+ users) to reduce manual drift, enforce compliance, and harden governance.
 
 ---
 
