@@ -18,7 +18,7 @@
 | Project | Description |
 |--------|-------------|
 | [M365-Governance-Automation-Framework](https://github.com/rajeshm365/M365-Governance-Automation-Framework) | Modular PowerShell + Azure Logic App framework to monitor Teams admin settings and Purview retention policies. |
-| [License Threshold Monitoring](https://github.com/yourhandle/m365-license-threshold-monitoring) | Monitors E3/E5 group limits with real-time alerts |
+| [OneDrive-IB-Segment-AutoRemediation](https://github.com/rajeshm365/OneDrive-IB-Segment-AutoRemediation/tree/main) | Weekly PowerShell automation that scans all OneDrives for Information Barrier (IB) segment stamping issues and auto-fixes them. |
 | [Retention Compliance Tracker](https://github.com/yourhandle/m365-retention-monitoring-framework) | Alerts for disabled or failing retention policies |
 | [IB Segment Remediation](https://github.com/yourhandle/onedrive-ib-remediation) | Fixes Microsoft-side stamping bugs automatically |
 
