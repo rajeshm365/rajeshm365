@@ -36,4 +36,4 @@
 Let’s connect. 👇
 
 📧 rajeshrockin22@outlook.com]  
-🔗 [LinkedIn]((https://www.linkedin.com/in/rajesh-s-chaubey-a25418162/))
+🔗 [LinkedIn](https://www.linkedin.com/in/rajesh-s-chaubey-a25418162/)
